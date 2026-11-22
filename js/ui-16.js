@@ -1,0 +1,1 @@
+(function(){var e=document.createElement('style');e.setAttribute("id","alpha-fab-home");e.textContent=`html body .mlogo.mn-off{display:none!important}html body .fab{will-change:transform}html body .fab.fab-off{display:none!important}`;document.body.appendChild(e)})();

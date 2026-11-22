@@ -1,0 +1,1 @@
+try{if(!localStorage.getItem("alpha.mig1")){localStorage.setItem("alpha.ti","10");localStorage.setItem("alpha.mig1","1")}if(!localStorage.getItem("alpha.mig2")){localStorage.setItem("alpha.ti","10");localStorage.setItem("alpha.mig2","1")}}catch(e){}

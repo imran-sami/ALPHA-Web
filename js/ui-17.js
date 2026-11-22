@@ -1,0 +1,1 @@
+(function(){var e=document.createElement('style');e.setAttribute("id","alpha-clock-stable");e.textContent=`#main .hl #ck{font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1;text-align:left}#main .hl #ck,#main .hl #cdt,#main .hl #lc{flex:none}`;document.body.appendChild(e)})();

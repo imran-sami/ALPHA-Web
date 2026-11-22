@@ -1,0 +1,1 @@
+(function(){var e=document.createElement('style');e.setAttribute("id","alpha-safe-area");e.textContent=`:root{--sa-top:env(safe-area-inset-top,0px);--sa-right:env(safe-area-inset-right,0px);--sa-bottom:env(safe-area-inset-bottom,0px);--sa-left:env(safe-area-inset-left,0px)}`;document.head.appendChild(e)})();
